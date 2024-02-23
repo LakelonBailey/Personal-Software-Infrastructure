@@ -10,7 +10,4 @@ Over the coming year, I will be developing a robust infrastructure and processes
 - A full Single Sign-on (SSO) system, complete with user groups and access restrictions/regulations, that integrates with all projects I create through this infrastructure.
 
 ## The Result
-While I understand there are already existing technologies to accomplish many of the tasks involved with this project, I want to build this infrastructure from the ground up to develop further experience with containerization, cybersecurity, networking, and automation. When successfull, I will have created an infrastructure that will support my passion for development for years to come.
-
-## The Future
-Currently, this project is little more than an idea. There is a ton I don't know and a ton to plan, but I'm as motivated as ever. Follow along to watch me learn and grow while building something great from the ground up!
+While I understand there are already existing technologies to accomplish many of the tasks involved with this project, I want to build this infrastructure from the ground up to develop further experience with containerization, cybersecurity, networking, and automation. When successfull, I will have created an infrastructure that will support my passion for development for years to come. Currently, this project is little more than an idea. There is a ton I don't know and a ton to plan, but I'm as motivated as ever. Follow along to watch me learn and grow while building something great from the ground up!
