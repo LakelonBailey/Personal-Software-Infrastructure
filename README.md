@@ -5,7 +5,7 @@ I constantly have new ideas for exciting personal projects and fun tools. Howeve
 ## The Solution
 Over the coming year, I will be developing a robust infrastructure and processes that will streamline the process of kickstarting development of a personal project or tool. Here are a few aspects of this project:
 - A simple blog documenting my progress 😁
-- A full user interface for creating and hosting new projects. With nothing but the selection of a frontend, backend, database, and app name, I will be able to create and host an entire new project through subdomains of my personal domain (lakelonbailey.com).
+- A full user interface for creating and hosting new projects. With nothing but the selection of a frontend, backend, database, and app name, I will be able to create and host an entire new project through subdomains of my development domain (lakelon.dev).
 - A dockerized build that allows me to easily scale this infrastructure from my home server to a cloud provider if necessary.
 - A full Single Sign-on (SSO) system, complete with user groups and access restrictions/regulations, that integrates with all projects I create through this infrastructure.
 
